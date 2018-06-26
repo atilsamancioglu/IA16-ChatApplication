@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "803243261238",
+    "firebase_url": "https://chatapplication-bf07a.firebaseio.com",
+    "project_id": "chatapplication-bf07a",
+    "storage_bucket": "chatapplication-bf07a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803243261238:android:d5cde67275a68ebc",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803243261238-107s5v9ckkci242kuh2l77fk5d1uauhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2_9VScLzukkuNfWcm2cCARt3k-NAN14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
